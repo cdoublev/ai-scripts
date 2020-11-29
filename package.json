@@ -1,0 +1,23 @@
+{
+  "name": "@creativewave/ai-scripts",
+  "description": "Scripts for Adobe Illustrator",
+  "author": "Guillaume Lebas",
+  "license": "MIT",
+  "keywords": [
+    "adobe",
+    "illustrator"
+  ],
+  "version": "0.1.0",
+  "engines": {
+    "node": ">= 14"
+  },
+  "repository": "github:cdoublev/ai-scripts.git",
+  "bugs": "https://github.com/cdoublev/ai-scripts/issues",
+  "homepage": "https://github.com/cdoublev/ai-scripts#readme",
+  "scripts": {
+    "test": "jest --watchAll -b"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
